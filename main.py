@@ -13,3 +13,5 @@ for i in ocene:
 
 print("PROSEK:")
 print(zbir / len(ocene))
+
+input("Press enter to continue") 
